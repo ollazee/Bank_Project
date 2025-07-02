@@ -55,11 +55,6 @@ The goal is to help financial institutions or analysts better understand custome
 
 ---
 
-## 📂 Files Included
-
-- General Excel Project_ Bank Details analysis.xlsx – The working Excel file with all pivot tables, slicers, and charts.
-- Annotation 2025-03-14 023340.png – Snapshot of the final dashboard.
-- README.md – Project description and documentation (you are here).
 
 ---
 
